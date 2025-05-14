@@ -46,7 +46,6 @@ Program C++ ini digunakan untuk mencatat dan menghitung gaji karyawan berdasarka
   |                  DATA GAJI PEGAWAI PT MITRA SARANA                     |
   |------------------------------------------------------------------------|
  |    NIM    |   Nama   | Golongan |  Jabatan  | Gaji Pokok | Tunjangan | Total Gaji |
- |-----------|----------|----------|-----------|------------|------------|-----------|
  | 1001      | Ani      | A        | DIREKTUR  | Rp. 5000000 | Rp. 1000000 | Rp. 6000000 |
  | 1002      | Budi     | C        | STAFF     | Rp. 3000000 | Rp.  600000 | Rp. 3600000 |
 
