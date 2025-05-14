@@ -5,16 +5,23 @@ Program C++ untuk menghitung total gaji pegawai berdasarkan golongan
 
 ## 📋 Deskripsi
 Program C++ ini digunakan untuk mencatat dan menghitung gaji karyawan berdasarkan input berupa NIM, nama, golongan, dan gaji pokok. Total gaji dihitung dari gaji pokok ditambah tunjangan (20%). Jabatan ditentukan berdasarkan golongan:
+
 • A = Direktur
+
 • B = Manager
+
 • Lainnya = Staff
 
 ---
 
 ## 🛠️ Fitur
+
 • Input jumlah karyawan
+
 • Array dinamis untuk data NIM, nama, golongan, dan gaji
+
 • Fungsi penentu jabatan
+
 • Output tabel data gaji lengkap
 
 ---
